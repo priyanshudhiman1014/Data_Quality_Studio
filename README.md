@@ -20,7 +20,7 @@ Upload one or more CSV files and unlock full data quality capabilities. Each row
 
 CSV uploads up to 500 MB are supported. Multi-file uploads are supported with automatic provenance tracking. Large files require sufficient available memory because Pandas processes the dataset locally in memory.
 
-See [`PRIVACY.md`](PRIVACY.md) for the local-only processing and security behavior. A small [`sample_data.csv`](sample_data.csv) is included for first-run testing.
+See [`PRIVACY.md`](PRIVACY.md) for the local-only processing and security behavior.
 
 ---
 
