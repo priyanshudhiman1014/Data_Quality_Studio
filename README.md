@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Data Quality Studio – Full Capabilities Edition
 
 A comprehensive local Streamlit application for CSV cleaning, profiling, quality assessment, advanced analytics (correlation, segmentation, sampling), safe SQL querying, natural-language data editing, and AI-assisted insights—**all with strict local-only privacy and no data exposure**.
